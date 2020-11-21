@@ -1,0 +1,4 @@
+com/jsr/calculadora/BuildConfig.java
+ com.jsr.calculadora.BuildConfig
+com/jsr/calculadora/MainActivity.java
+ com.jsr.calculadora.MainActivity

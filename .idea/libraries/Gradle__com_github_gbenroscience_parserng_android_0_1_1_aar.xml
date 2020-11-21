@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gbenroscience:parserng-android:0.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94a137ed46e46f3e693fa68358b8772f/jetified-parserng-android-0.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94a137ed46e46f3e693fa68358b8772f/jetified-parserng-android-0.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94a137ed46e46f3e693fa68358b8772f/jetified-parserng-android-0.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gbenroscience/parserng-android/0.1.1/2bee7beaab4ba456affe786b8c0c52786611116f/parserng-android-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
